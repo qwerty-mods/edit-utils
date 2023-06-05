@@ -7,10 +7,10 @@
     "discordID": "499400512559382538",
     "github": "12944qwerty"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "updater": {
-    "type": "github",
-    "id": "qwerty-mods/edit-utils"
+    "type": "store",
+    "id": "dev.kingfish.EditUtils"
   },
   "license": "MIT",
   "type": "replugged-plugin",
